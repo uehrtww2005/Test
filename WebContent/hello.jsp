@@ -12,7 +12,8 @@
 <!--HTML形式のコメント-->
 
 <p>Hello!</p>
-<p>おはよ！</p>
+<p>aiueoおはよ！</p>
+
 
 </body>
 </html>
